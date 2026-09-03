@@ -4,3 +4,4 @@
 ``` bài làm
 1. Không biết mai sau cuộc sống của mình thế nào nhưng hiện tại tớ cảm thấy rất mệt mỏi và không muốn làm gì nữa
 ```
+2. ***Cuộc sống nó không giống cuộc đời***
