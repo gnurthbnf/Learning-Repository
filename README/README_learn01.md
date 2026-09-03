@@ -9,4 +9,4 @@
 3. executable *:* packages
 
 4.![Đêm ăn mì tôm](https://facebook.com/gnurthieu1230)
-[![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnaRtRsc9duoZQu--ncXJh6a9cUan2pbIYDREyR58w&s][Đêm ăn mì tôm](https://facebook.com/gnurthieu1230)
+![Đêm ăn mì tôm](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnaRtRsc9duoZQu--ncXJh6a9cUan2pbIYDREyR58w&s)](https://facebook.com/gnurthieu1230)
