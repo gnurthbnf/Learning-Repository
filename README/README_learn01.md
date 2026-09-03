@@ -8,4 +8,4 @@
 
 3. executable *:* packages
 
-4.![Đêm ănbmì tôm](https://facebook.com/gnurthieu1230)
+4.![Đêm ăn mì tôm](https://facebook.com/gnurthieu1230)
