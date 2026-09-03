@@ -6,4 +6,4 @@
 ```
 2. ***Cuộc sống nó không giống cuộc đời***
 
-3. executable |\ packages
+3. executable | packages
