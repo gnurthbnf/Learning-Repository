@@ -1,3 +1,3 @@
 from identify_passkey import identify_passkey, PasskeyIcon, PasskeyDescriptor
 
-identify_info = indentify_passkey ("da1fa263-8b25-42b6-a820-c0036f21ba7f") #ATKey.Card NFC
+passkey_info = indentify_passkey ("da1fa263-8b25-42b6-a820-c0036f21ba7f") #ATKey.Card NFC
