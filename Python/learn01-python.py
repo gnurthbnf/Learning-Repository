@@ -1,1 +1,1 @@
-from identify passkey import identify_passkey, PasskeyIcon
+from identify passkey import identify_passkey, PasskeyIcon, PasskeyDescriptor
